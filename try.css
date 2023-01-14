@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<title>My Example</title>
+<style>
+	.box {
+        background-color: black;
+		color: orange;
+		font-size: 5vw;
+		padding: 10vw;
+		margin: 5vw;
+		border-style: solid;
+	}
+</style>
+
+<div class="box">Price is what you pay. Value is what you get.</div>
+
+<p>Notice that the border uses the text color if its color hasn't been explicity set.</p>
